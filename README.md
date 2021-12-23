@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @genevill
-- 👀 I’m interested in Unity Programming with C#
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Software Development with C#
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me evillacian@gmail.com
 
 <!---
